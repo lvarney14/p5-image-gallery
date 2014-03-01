@@ -11,7 +11,7 @@ $('#grid-view').on('click', function(){
   $('.columns').addClass('large-3');
   
 // hide paragraphs
-  $('p').hide();
+  $('p').hide("p");
 
 });
 

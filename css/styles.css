@@ -1,0 +1,14 @@
+.large-6,
+.large-3 {
+	-moz-transition: width .25s .5s;
+	-webkit-transition: width .25s .5s;
+	transition: width .25s .5s;
+}
+
+div {
+	height: 400px;
+}
+
+
+/* galleries */
+
